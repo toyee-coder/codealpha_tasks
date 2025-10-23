@@ -1,2 +1,2 @@
 # codealpha_tasks
-My python project 
+This repository contains my projects for the CodeAlpha internship program
